@@ -1,6 +1,8 @@
 ---
 name: HW5 Licenses Analysis
 tools: [Python, Altair, Vega-Lite]
+image: assets/pngs/cars.png
+description: Illinois professional licenses analysis
 custom_js:
   - vega.min
   - vega-lite.min
