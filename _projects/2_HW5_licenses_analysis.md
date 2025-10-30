@@ -1,7 +1,7 @@
 ---
 name: HW5 Licenses Analysis
 tools: [Python, Altair, Vega-Lite]
-image: assets/pngs/.png
+image: assets/pngs/ls.png
 description: Illinois professional licenses analysis
 custom_js:
   - vega.min
@@ -16,7 +16,7 @@ custom_js:
 
 **Data Source:** [licenses_fall2022.csv](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/licenses_fall2022.csv)
 
-**Notebook:** [HW5](https://github.com/mtprom/mtprom.github.io/blob/main/Gemfile/HW5.ipynb)
+**Notebook:** [HW5](https://github.com/mtprom/mtprom.github.io/blob/main/HW5.ipynb)
 
 ## Visualization 1
 
